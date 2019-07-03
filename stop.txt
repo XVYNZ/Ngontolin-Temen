@@ -1,4 +1,0 @@
-print("Lu Tolol Anjing")
-print("Ngentot")
-print("Jam 10:00 Besok Akan Di Buka Lagi")
-exit(1)
