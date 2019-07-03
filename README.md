@@ -12,4 +12,4 @@ Tahap Install :
 
 ```pip install requests && pip2 install requests```
 
-```python sms.py```
+```python gay.py```
